@@ -2,7 +2,7 @@
 T-Brain AI Competition
 
 # Data
-因為有些資料容量較大, 因此不放到Github之上
+Data files will not push on github from saving space
 
 # Reference
 https://tbrain.trendmicro.com.tw/Competitions/Details/4
